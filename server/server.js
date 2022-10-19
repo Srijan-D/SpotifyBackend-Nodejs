@@ -10,8 +10,8 @@ app.post("/refresh", (req, res) => {
   const refreshToken = req.body.refreshToken;
   const spotifyApi = new SpotifWebAPI({
     redirectUri: "http://localhost:3000",
-    clientId: "e8acbd5e26d4445681fb69ea7112c35c",
-    clientSecret: "cabf3a9d6a4e4ba79d4b0bb1caa802c1",
+    clientId: "clientId",
+    clientSecret: "clientSecret",
     refreshToken,
   });
   spotifyApi
