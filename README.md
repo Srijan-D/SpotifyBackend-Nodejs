@@ -1,7 +1,7 @@
 
   <h1>Node.js Backend Spotify Clone</h1>
   <p>A web API for a Spotify clone built with Node.js and the Spotify Web API Node wrapper.</p>
-  <p>This project is a Spotify clone backend built using Node.js and the spotify-web-api-node wrapper. The main goal of this project is to provide a backend for a music streaming service that allows users to search for and play songs, as well as save their favorite tracks and playlists.</p>
+  <p> Spotify backend clone built on top of Node.js and the spotify-web-api-node wrapper. The main goal of this project is to provide a backend for a music streaming service that allows users to search for and play songs, as well as save their favorite tracks and playlists.</p>
 <br>
   <h2>Getting Started</h2>
   <ol>
